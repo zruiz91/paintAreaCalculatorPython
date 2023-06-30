@@ -1,1 +1,2 @@
 # paintAreaCalculatorPython
+# primeNumberCheckerPython
